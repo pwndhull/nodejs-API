@@ -1,0 +1,5 @@
+{
+  "env": {
+    'mongo_altas_pass': 'The_3lite',
+  }
+}
